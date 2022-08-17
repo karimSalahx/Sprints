@@ -4,6 +4,7 @@ fun main(args: Array<String>) {
     val bmwObj = BMW()
     teslaObj.getFuelType()
     bmwObj.getFuelType()
+    print("Program finished")
 }
 
 interface Car {
